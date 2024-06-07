@@ -53,5 +53,6 @@ namespace Business_logic_Layer
         {
             return _dalCommon.GetUserSkill(userId);
         }
+        
     }
 }
